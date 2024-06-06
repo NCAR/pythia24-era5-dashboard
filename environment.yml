@@ -1,0 +1,13 @@
+name: ERA5_dashboard
+channels:
+  - conda-forge
+dependencies:
+  - cartopy 
+  - geoviews
+  - holoviews
+  - intake
+  - intake-esm
+  - ipykernel
+  - matplotlib
+  - pandas
+  - xarray
